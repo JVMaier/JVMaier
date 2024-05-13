@@ -4,9 +4,6 @@
 - 🌱 I’m currently learning how to became a FullStack
 - 💬 Ask me about HTML, CSS, JavaScript, React, Python, Java
 
-## 🚀 About me
-
-
 ## 🛠 Skills
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,11 +12,12 @@
 </p>
 
 ## ⚡ Stats
-
 <div align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMaier&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
 </div>
+
   <!--
+  ## 🚀 About me
   <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api?username=JVMaier&show_icons=true&theme=react&rank_icon=github&border_radius=10)" />
 </div>
 
